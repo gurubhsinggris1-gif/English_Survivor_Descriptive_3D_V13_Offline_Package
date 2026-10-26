@@ -1,0 +1,6 @@
+English Survivor V13
+1. Ekstrak ZIP seluruhnya.
+2. Buka index.html di Chrome.
+3. Pada Simulation, pilih penampil model 3D asli, atau buka viewer_3d.html langsung.
+4. File GLB asli ada di folder yang sama. Viewer memiliki salinan model tertanam sebagai fallback ketika Chrome membatasi fetch lokal.
+5. Simulasi Borobudur dan tab Theory, Procedure, LKPD, Pengembang berasal dari V9.
